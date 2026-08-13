@@ -63,7 +63,7 @@ Die Quelldateien befinden sich im Ordner [`data`](data).
 
 - [`data`](data) – synthetische Quelldaten als CSV-Dateien
 - [`dashboard`](dashboard) – Screenshots des Power-BI-Dashboards
-- [`sql/security_kpi_queries.sql`](sql/security_kpi_queries.sql) – SQL queries used for KPI analysis
+- [`sql/security_kpi_queries.sql`](sql/security_kpi_queries.sql) – SQL queries, die für die KPI Analyse genutzt wurden
 
 ## Hinweis
 
