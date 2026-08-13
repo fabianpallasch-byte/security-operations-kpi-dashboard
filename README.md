@@ -63,8 +63,6 @@ Die Quelldateien befinden sich im Ordner [`data`](data).
 
 - [`data`](data) – synthetische Quelldaten als CSV-Dateien
 - [`dashboard`](dashboard) – Screenshots des Power-BI-Dashboards
-- [`docs/Projekt_SQL_PowerBI_Fabian_Pallasch.pdf`](docs/Projekt_SQL_PowerBI_Fabian_Pallasch.pdf) – kurze Projektbeschreibung
-- [`sql/security_kpi_queries.sql`](sql/security_kpi_queries.sql) – verwendete SQL-Abfragen
 
 ## Hinweis
 
