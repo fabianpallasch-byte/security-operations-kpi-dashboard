@@ -1,0 +1,101 @@
+﻿finding_id;department_id;identified_date;criticality;status;finding_type;days_open
+2001;1;07.01.2026;Critical;Open;Unpatched Server;165
+2002;2;15.01.2026;Medium;Closed;Weak Password Policy;14
+2003;3;21.01.2026;Low;Closed;Missing Awareness Record;9
+2004;4;30.01.2026;High;Open;Outdated VPN Client;142
+2005;5;04.02.2026;Medium;Open;Shared Account Usage;137
+2006;6;10.02.2026;Low;Closed;Incomplete Ticket Logging;11
+2007;1;16.02.2026;High;Open;Missing MFA;125
+2008;2;23.02.2026;Medium;Closed;Excessive Access Rights;18
+2009;4;01.03.2026;Critical;Open;Backup Failure;112
+2010;5;09.03.2026;High;Open;Unencrypted Spreadsheet;104
+2011;3;17.03.2026;Low;Closed;Policy Acknowledgment Missing;7
+2012;6;25.03.2026;Medium;Open;Delayed Escalation Process;88
+2013;1;02.04.2026;High;Closed;Inactive Admin Account;16
+2014;2;10.04.2026;Medium;Closed;Late Access Review;13
+2015;4;18.04.2026;High;Open;Firewall Rule Exception;64
+2016;5;24.04.2026;Low;Closed;Missing Contact Classification;6
+2017;3;01.05.2026;Medium;Open;Training Record Gap;51
+2018;6;08.05.2026;High;Closed;Escalation Threshold Not Defined;19
+2019;1;15.05.2026;Critical;Open;Unsupported Legacy System;37
+2020;2;22.05.2026;Low;Closed;Inactive User Not Removed Timely;8
+2021;4;29.05.2026;Medium;Open;Delayed Patch Verification;23
+2022;5;03.06.2026;High;Open;Portable Device Encryption Missing;18
+2023;3;09.06.2026;Low;Closed;Unsigned Policy Confirmation;5
+2024;6;16.06.2026;Medium;Open;Incident Handover Delay;5
+2025;1;20.06.2026;High;Open;Endpoint Encryption Gap;194
+2026;2;24.06.2026;Low;Closed;Finance Shared Folder Overexposure;7
+2027;4;27.06.2026;Critical;Open;Unsupported Warehouse OS;187
+2028;5;30.06.2026;Medium;Open;Unreviewed CRM User Group;184
+2029;3;03.07.2026;Low;Closed;Incomplete Training Evidence;6
+2030;6;06.07.2026;Medium;Closed;Missing Escalation Timestamp;12
+2031;1;08.07.2026;High;Open;Excessive Local Admin Rights;176
+2032;2;11.07.2026;Medium;Closed;Dormant Vendor Account;14
+2033;4;14.07.2026;High;Open;Patch Baseline Not Met;170
+2034;5;17.07.2026;Low;Closed;Old Distribution List Not Removed;5
+2035;3;20.07.2026;Medium;Open;Awareness Completion Gap;164
+2036;6;23.07.2026;High;Closed;Incident Escalation Matrix Missing;18
+2037;1;26.07.2026;Critical;Open;Server Hardening Deviation;158
+2038;2;29.07.2026;Medium;Closed;Unapproved Shared Mailbox Access;13
+2039;4;01.08.2026;High;Open;Vulnerability Scan Exceptions Unreviewed;152
+2040;5;04.08.2026;Medium;Closed;Inactive Sales Account Retained;9
+2041;3;07.08.2026;Low;Closed;Missing Policy Receipt;4
+2042;6;10.08.2026;Medium;Open;Delayed Major Incident Handover;143
+2043;1;12.08.2026;High;Closed;Legacy Antivirus Signature Gap;16
+2044;2;15.08.2026;Low;Closed;Temporary Access Review Missing;7
+2045;4;18.08.2026;Critical;Open;Backup Test Not Performed;135
+2046;5;21.08.2026;High;Open;Unencrypted Sales Forecast File;132
+2047;3;24.08.2026;Medium;Closed;Late Offboarding Documentation;10
+2048;6;27.08.2026;Low;Closed;Knowledge Article Approval Missing;6
+2049;1;30.08.2026;High;Open;MFA Exception Still Active;123
+2050;2;02.09.2026;Medium;Closed;Duplicate Finance Role Assignment;11
+2051;4;05.09.2026;High;Closed;Firewall Rule Review Delay;19
+2052;5;08.09.2026;Medium;Open;Third-Party Access Not Recertified;114
+2053;3;11.09.2026;Low;Closed;Policy Version Control Gap;5
+2054;6;14.09.2026;Medium;Open;Service Desk Handover Template Missing;108
+2055;1;17.09.2026;Critical;Open;Unsupported Database Instance;105
+2056;2;20.09.2026;Low;Closed;Expense Approval Log Not Archived;4
+2057;4;23.09.2026;High;Open;VPN Configuration Drift;99
+2058;5;26.09.2026;Medium;Closed;Sales Shared Drive Permissions Too Broad;12
+2059;3;29.09.2026;Low;Closed;Unsigned Training Attendance Sheet;6
+2060;6;02.10.2026;High;Closed;Priority Matrix Not Updated;15
+2061;1;05.10.2026;High;Open;EDR Agent Missing on Critical Device;87
+2062;2;08.10.2026;Medium;Open;Privileged Access Review Overdue;84
+2063;4;11.10.2026;Critical;Open;Disaster Recovery Procedure Gap;81
+2064;5;14.10.2026;Low;Closed;Former Lead List Still Shared;7
+2065;3;17.10.2026;Medium;Closed;Phishing Campaign Evidence Incomplete;9
+2066;6;20.10.2026;Low;Closed;Ticket Closure Reason Missing;5
+2067;1;23.10.2026;High;Closed;Admin Password Rotation Delay;18
+2068;2;26.10.2026;Medium;Open;Segregation of Duties Conflict;66
+2069;4;29.10.2026;High;Open;Warehouse Device Patch Exception;63
+2070;5;01.11.2026;Medium;Closed;External Sharing Setting Too Broad;14
+2071;3;04.11.2026;Low;Closed;New Hire Access Checklist Missing;6
+2072;6;07.11.2026;Medium;Open;Incident Categorization Control Gap;54
+2073;1;10.11.2026;Critical;Open;Unsupported Admin Tool in Use;51
+2074;2;13.11.2026;Low;Closed;Read Access Not Removed After Audit;5
+2075;4;16.11.2026;High;Closed;Monitoring Coverage Gap;17
+2076;5;19.11.2026;High;Open;Unencrypted Partner Export;42
+2077;3;22.11.2026;Medium;Closed;Training Reminder Process Failure;11
+2078;6;25.11.2026;Low;Closed;Case Ownership Field Missing;4
+2079;1;28.11.2026;High;Open;Patch Verification Evidence Missing;33
+2080;2;01.12.2026;Medium;Closed;Finance Shared Mailbox Access Not Reviewed;10
+2081;4;04.12.2026;Critical;Open;Recovery Runbook Not Approved;27
+2082;5;07.12.2026;Medium;Open;CRM Admin Rights Not Recertified;24
+2083;3;10.12.2026;Low;Closed;Policy Acceptance Tracking Gap;5
+2084;6;12.12.2026;Medium;Closed;Escalation Contact List Outdated;8
+2085;1;14.12.2026;High;Open;Threat Detection Rule Disabled;17
+2086;2;15.12.2026;Low;Closed;Budget Folder Inheritance Too Broad;4
+2087;4;17.12.2026;High;Open;Unsupported Scanner Firmware;14
+2088;5;18.12.2026;Medium;Closed;Sales Forecast Sheet Not Classified;9
+2089;3;19.12.2026;Low;Closed;Interview Notes Retention Delay;3
+2090;6;20.12.2026;Medium;Open;Major Incident Review Not Filed;11
+2091;1;21.12.2026;Critical;Open;Remote Admin Port Exposure;10
+2092;2;22.12.2026;Medium;Closed;Temporary Privileged Role Not Documented;6
+2093;4;23.12.2026;High;Closed;Warehouse VPN Exception Not Signed Off;7
+2094;5;24.12.2026;Low;Closed;Lead Export Naming Standard Missing;3
+2095;3;25.12.2026;Medium;Open;Awareness Follow-Up Missing;6
+2096;6;26.12.2026;Low;Closed;Ticket Evidence Attachment Missing;3
+2097;1;27.12.2026;High;Open;Local Firewall Disabled on Admin Device;4
+2098;2;28.12.2026;Low;Closed;Invoice Archive Access Review Late;2
+2099;5;29.12.2026;Medium;Open;External Sharing Approval Missing;2
+2100;4;30.12.2026;High;Open;Patch Exception Still Unresolved;1
